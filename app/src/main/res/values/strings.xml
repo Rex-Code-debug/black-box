@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Black Box</string>
+    <string name="service_desc">Black Box only checks which app is open on screen so it can send blocked apps back to the home screen while your timer is running. It does not read your screen content.</string>
+</resources>
